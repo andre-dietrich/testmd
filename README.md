@@ -1,5 +1,9 @@
 # testmd
 
+ <p>Press <kbd>Ctrl</kbd> + <kbd>C</kbd> to copy text (Windows).</p>
+
+<p>Press <kbd>Cmd</kbd> + <kbd>C</kbd> to copy text (Mac OS).</p> 
+
 <div itemscope itemtype="https://schema.org/Person">
 <span itemprop="name">Jane Doe</span>
 <img src="janedoe.jpg" itemprop="image" alt="Photo of Jane Doe"/>
