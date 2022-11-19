@@ -1,6 +1,11 @@
 # testmd
 
- <p>Press <kbd>Ctrl</kbd> + <kbd>C</kbd> to copy text (Windows).</p>
+<details>
+  <summary>Epcot Center</summary>
+  <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
+</details> 
+
+<p>Press <kbd>Ctrl</kbd> + <kbd>C</kbd> to copy text (Windows).</p>
 
 <p>Press <kbd>Cmd</kbd> + <kbd>C</kbd> to copy text (Mac OS).</p> 
 
